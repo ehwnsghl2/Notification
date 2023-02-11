@@ -27,7 +27,7 @@ Kotlin, Spring Boot, JPA, Hibernate, DDD Architecture, MySQL, Redis
 ## 동시성 처리
 
 ## ERD 설계
-https://user-images.githubusercontent.com/26380726/218263301-a93873a3-eb0b-4ecd-ba89-2107696d0d85.png
+![initial](https://user-images.githubusercontent.com/26380726/218263301-a93873a3-eb0b-4ecd-ba89-2107696d0d85.png)
 
 ## DDD Architecture
 Aggregate는 아래의 4가지로 분류했다. 분류한 기준은 관리 기능이다.
