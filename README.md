@@ -28,6 +28,7 @@ Kotlin, Spring Boot, JPA, Hibernate, DDD Architecture, MySQL, Redis
 
 ## ERD 설계
 
+
 ## DDD Architecture
 Aggregate는 아래의 4가지로 분류했다. 분류한 기준은 관리 기능이다.
 회원 기능,
