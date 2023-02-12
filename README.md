@@ -40,6 +40,7 @@ Aggregate는 아래의 4가지로 분류했다. 분류한 기준은 관리 기�
 
 패키징은 기본적으로 DDD Architecture 가이드를 따라 설계되었으며, 아래와 같이 구성된다. 
 
+```
 .
 └── kakaopay
     ├── common
